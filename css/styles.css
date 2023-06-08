@@ -4,3 +4,9 @@ button{
 h1{
     background-color: blue;
 }
+.secondary{
+    background: linear-gradient(red , green, blue);
+}
+.tertiary{
+    background: linear-gradient(rgb(127,0,54), rgb(0,54,127), rgb(0,205,127));
+}
