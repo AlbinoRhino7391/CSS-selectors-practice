@@ -10,3 +10,12 @@ h1{
 .tertiary{
     background: linear-gradient(rgb(127,0,54), rgb(0,54,127), rgb(0,205,127));
 }
+#box{
+    border-radius: 50px;
+    border-color: black;
+    background: teal;
+}
+body{
+    text-align: center;
+    margin: 20px;
+}
